@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SuiteEntrega" verbose="1" >
+    <test name=“Conformidad">
+    <classes>
+    <class name="test.SistemaVM.FuncionalidadA"/>
+    <class name=" test.SistemaVM.FuncionalidadB "/>
+    </classes>
+    </test>
+    <test name=“Conformidad">
+    <packages>
+    <package name="test.SistemaHALnalidadA"/>
+    </packages>
+    </test>
+</suite>

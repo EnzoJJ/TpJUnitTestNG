@@ -1,0 +1,12 @@
+tdv\teclasunidos\entities\Actividad.class
+tdv\teclasunidos\entities\Recurso.class
+tdv\teclasunidos\Main.class
+tdv\teclasunidos\services\InscripcionService.class
+tdv\teclasunidos\entities\Reserva.class
+tdv\teclasunidos\repositories\RecursoRepository.class
+tdv\teclasunidos\services\ReservaService.class
+tdv\teclasunidos\entities\EdadInvalidaException.class
+tdv\teclasunidos\entities\Socio.class
+tdv\teclasunidos\repositories\SocioRepository.class
+tdv\teclasunidos\repositories\ActividadRepository.class
+tdv\teclasunidos\entities\NombreMuyLargoException.class
